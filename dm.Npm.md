@@ -5,7 +5,6 @@
 > https://nodejs.org/ru/download/current/
 
 - Исполняемые пакеты располагаются в папке "bin/"
-- 
 - Node.Js - это интерпретатор на C++ (получает на входе код JS и выполняет его)
 
 ---
@@ -56,7 +55,7 @@ $ npm unstall [название пакета] // удалить пакет
 $ ./node_modules/grunt-cli/bin/grunt // выполнить пакет
 ```
 
-### Laravel webpack.mix.js - аналог WebPack (сборщик web-приложения - несколько скриптов в 1 файл)
+### Laravel webpack.mix.js (сборщик web-приложения - несколько скриптов в 1 файл)
 
 ```console
 $ npm run dev // собрать js, css-файлы
