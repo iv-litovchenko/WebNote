@@ -1,4 +1,4 @@
-# PHP Composer
+# PHP Composer (подгрузчик пакетов (composer.json))
 > Пакетный менеджер позволяет подключать сторонник код (пакеты) к нашему проекту \
 > https://getcomposer.org/download/ \
 > https://packagist.org/
