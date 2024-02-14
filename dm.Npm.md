@@ -49,10 +49,10 @@ $ npm repo [bootstrap] // ссылка на гитхаб
 $ npm install (установка всех пакетов с сайта npmjs.com)
 $ npm install --production (установка всех пакетов только секция продакш - для продакшина)
 $ npm install --global gulp (установка глобально)
-$ npm install [название пакета]@4.1.1 // добавить пакет
-$ npm install [название пакета] --save-dev // добавить пакет - в секцию dev
-$ npm unstall [название пакета] // удалить пакет
-$ ./node_modules/grunt-cli/bin/grunt // выполнить пакет
+$ npm install [название пакета]@4.1.1 # добавить пакет
+$ npm install [название пакета] --save-dev # добавить пакет - в секцию dev
+$ npm unstall [название пакета] # удалить пакет
+$ ./node_modules/grunt-cli/bin/grunt # выполнить пакет
 ```
 
 ### Laravel webpack.mix.js (сборщик web-приложения - несколько скриптов в 1 файл)
