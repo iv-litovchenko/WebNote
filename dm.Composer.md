@@ -1,7 +1,7 @@
 # PHP Composer
 > Пакетный менеджер позволяет подключать сторонник код (пакеты) к нашему проекту
-> https://getcomposer.org/download/
-> https://packagist.org/
+> https://getcomposer.org/download/ \
+> https://packagist.org/ \
 
  
 Название пакета состоит из [Автор(Огранизация)]/[Пакет]
