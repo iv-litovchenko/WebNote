@@ -12,10 +12,10 @@
 ### Командная строка
 
 ```console
-$ php -i | grep PDO
-$ echo PHP_PATH
 $ php -v
 $ php -m // список подключенных расширений (хранятся в папке) /ext/ -> .dll расширения (.so для Unix)
+$ php -i | grep PDO
+$ echo PHP_PATH
 $ php -S localhost:4000 -t publuc_html // запустить встроенный виртуальный сервер
 $ php --rf trim // справка по функции
 $ php -h
@@ -104,6 +104,5 @@ return $result;
 - ООП: throw get_class(object)
 - Выражение match (switch)
 - Новые аннотации "#" // но пока без вложенных без мультистрок
-```
 
 ### Полезные пакеты
