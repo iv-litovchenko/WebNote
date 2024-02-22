@@ -164,4 +164,4 @@ public function methodExample(integer $arg1, Person $person): void
 namespace Oop;
 
 
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/temp.jpg)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/TEMP.jpg)
