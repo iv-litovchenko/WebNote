@@ -1,4 +1,4 @@
-# PHP Composer (подгрузчик пакетов (composer.json))
+# PHP Composer (менеджер и подгрузчик пакетов, компонентов и зависимостей (composer.json) по стандарту PSR-4)
 > Пакетный менеджер позволяет подключать сторонник код (пакеты) к нашему проекту \
 > https://getcomposer.org/download/ \
 > https://packagist.org/
@@ -50,3 +50,8 @@ $ which php8.1
 $ <php8.1> -d memory_limit=-1 /usr/local/bin/composer-phar update --no-plugins --ignore-platform-reqs
 $ <php> composer install -n --ignore-platform-req=ext-gd
 ```
+
+## Скриншоты
+
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/backend.Php.Dm.Composer/vzUFn1SXdPp08AIeqzkKcV2LHfBei6ornjioxTeu.jpg)
+
