@@ -1,7 +1,7 @@
 # PHPStorm IDE (среда) для разработки с кучей плюшек (программа в программе)
 > Поддерживает Экспорт/Импорт настроек
 
-### Рабочие окна
+## Рабочие окна
 
 - Сравнение директорий и файлов (View > Compare With, аналог Total Commander)
 - Модуль Проект
@@ -18,12 +18,18 @@
 - Плагин: NPM
 - HTTP-клиент (Postman)
 
-### Полезные и удобные настройки
+## Git
+
+- Красный — не добавлен в систему контроля версий
+- Синий — изменён
+- Зелёный — новый файл
+
+## Полезные и удобные настройки
 
 - Табы открытых файлов. Настройка, которая позволяет держать список открытых файлов в вертикальном положении (Editor > General > Editor Tabs > Tab placement)
 - Комментарии без отступов в коде (Editor > General > Editor Tabs > Tab)
 
-### Горячие клавиши
+## Горячие клавиши
 
 | Сочитание клавиш         | Описание                                                    |
 |--------------------------|-------------------------------------------------------------|
@@ -42,4 +48,18 @@
 | CTRL + SHIFT + F         | поиск файлов                                                |
 | CTRL + R                 | замена текста                                               |
 | CTRL + F12               | список всех методов                                         |
+
+## Скриншоты
+
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/egr78hndolV33JToMXRChMUYF8hzxhaa3zrtMohS.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/EUOrjGhTpf700y4rbqk85jVrINMuRgbTnxN6V1qZ.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/vrLO9osxC4cEJbky1imvVDOLt3X2VB9tGRgBXkmD.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/G3t1uzmfUuZVkSIARNAIg6bfCicbVmUSL3V4xrVs.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/n9ZHuJ4KVnrIrr8qw7af6KG7DJfA4GnNosInY56Q.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/z6BhiXSyJ0dnyz8ptvVMZDAMAk0tYMJZQMBIq9V0.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/rQHxa6ajkw9Jk8dX8SClEzgSOtVONU8BPjV6lyfy.jpg)
+
+
+
+
 
