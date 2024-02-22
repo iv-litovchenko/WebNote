@@ -128,10 +128,10 @@ $ docker exec -w /var/www/html -it <CONTAINER_NAME> composer dump-autoload
 
 ## Скриншоты
 
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/soft.Docker/jN4XDVzAN4DgmVSSfb4kn0Cm7RJ77OBR43kbTsK6.png)
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/soft.Docker/3RrRE5tyyQCpRRFnJPP04OHL3k0TrsvG76GxJgs9.png)
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/soft.Docker/kYnjL8rDmf349xaSwWFYsndmgisCHIi39qlUYpXS.png)
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/soft.Docker/ej1tFaQynY3Sx2aQ8Gbz7IJhNJmdtCl1VtUUDtkO.png)
-![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.PhpStorm/soft.Docker/dJ3VUz2pb2uHLuwYeUX30NzPx4CtcuJaOdzxyzvw.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.Docker/jN4XDVzAN4DgmVSSfb4kn0Cm7RJ77OBR43kbTsK6.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.Docker/3RrRE5tyyQCpRRFnJPP04OHL3k0TrsvG76GxJgs9.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.Docker/kYnjL8rDmf349xaSwWFYsndmgisCHIi39qlUYpXS.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.Docker/ej1tFaQynY3Sx2aQ8Gbz7IJhNJmdtCl1VtUUDtkO.png)
+![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/soft.Docker/dJ3VUz2pb2uHLuwYeUX30NzPx4CtcuJaOdzxyzvw.png)
         
            
