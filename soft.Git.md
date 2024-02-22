@@ -5,13 +5,13 @@
 
 ## Термины
 
-| Create      | Browse  | Revert  | Update  | Branch  | Save  | Publish  |
-|-------------|---|---|---|---|--------|---|
-| init |  status |  reset | pull  | checkout  | add    |  push |
-| clone       | log  | checkout  |  fetch | branch  | commit |   |
-| -------      | show  | revert  | merge  | -------  |        |   |
-|   config    | diff  |   | am  |  workflow |        |   |
-|   remote          |   branch    |   |   |   |        |   |
+| Create  | Browse | Revert   | Update | Branch   | Save  | Publish |
+|---------|--------|----------|--------|----------|--------|---------|
+| init    | status | reset    | pull   | checkout | add    | push    |
+| clone   | log    | checkout | fetch  | branch   | commit |         |
+| ------- | show   | revert   | merge  | -------  |        |         |
+| config  | diff   |          | am     | workflow |        |         |
+| remote  | branch |          |        |          |        |         |
 
 ### Create (инициализация)
 
