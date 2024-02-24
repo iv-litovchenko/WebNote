@@ -35,6 +35,11 @@
   https://webformyself.com/category/premium/php-premium/oopphppremium/
 - 
 
+## Стажировки
+
+- https://job.mts.ru/internship
+- https://blog.sibirix.ru/internship-2024-start/
+
 ## Бизнес
 - https://club.atlanty.ru/ 
 - https://club500.pro/
@@ -44,8 +49,11 @@
 - https://kudago.com/msk/list/besplatnye-razgovornye-kluby/ (бесплатные разговорные клубы Москвы English)
 - https://takemytime.ru/
 
+## Закладки
 
-
+- https://tproger.ru/articles/first-job-searching-guide
+- https://tproger.ru/translations/project-manager-interview
+- https://habr.com/ru/articles/62622/
 
 
 Высшее образование по направлению "Управление проектами", "менеджмент", "Бизнес-администрирование", "Прикладная математика и информатика", "Бизнес-информатика";
