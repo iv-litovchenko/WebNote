@@ -167,3 +167,8 @@ namespace Oop;
 ![](https://raw.githubusercontent.com/iv-litovchenko/WebNote/main/Uploads/TEMP.jpg)
 https://backendinterview.ru/
 https://livetyping.com/ru/blog/chto-nuzhno-znat-i-umet-chtoby-rabotat-php-razrabotchikom
+
+<img src="http://maptex.ru/storage/site/post/328/RrEMAxqRiQAlMwWvRoYp2tExY8DBMpLs146sxOJ0.png" class="img-thumbnail img-site-figma" style="text-align: center">
+<img src="http://maptex.ru/storage/site/post/328/SdEIaE7zyjZB7f5AvjUmOWTKrXe5FqfjkTTKC9ZP.png" class="img-thumbnail img-site-figma" style="text-align: center">
+<img src="http://maptex.ru/storage/site/post/328/HEFeKpJaXNJNJP1G08HIC77EqSRKgQUuCeX0mtNO.png" class="img-thumbnail img-site-figma" style="text-align: center">
+<img src="http://maptex.ru/storage/site/post/328/Z4iktsoo1qumRKSM2P16zJTHGQOipQs2zUT4gljk.png" class="img-thumbnail img-site-figma" style="text-align: center">

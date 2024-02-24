@@ -315,3 +315,11 @@ https://jeka.by/ask/231/git-stash-information/
 https://jeka.by/ask/240/clean-git-stash/
 https://jeka.by/ask/112/git-merge-as-single-commit/
 https://jeka.by/ask/198/git-transfer-commit-from-another-branch-cherry-pick/
+
+
+Это надо в такой вот ситуации:
+Ты много мест в коде изменил, но еще не готов сделать комит. 
+Тебе срочно надо переключиться на другую ветку, к примеру коллега
+просит помощи по баге и ее проверке. Как быть? Куда деть не закомиченную работу? 
+Вот лучше всего взять и спрятать, как проиндексированное, так и то что еще не добавлено в индекс. 
+В этом и есть суть git stash
