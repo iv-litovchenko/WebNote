@@ -2,11 +2,12 @@
 
 ## CEX Биржи (нужна вертификация, центральизованные)
 
+- Binance https://binance.com/
 - Bybit https://bybit.com/
 - Kucoin https://www.kucoin.com/
-- Gate https://www.gate.io/
 - Mexc https://www.mexc.com/
-- Huobi https://www.htx.com/
+- Huobi https://www.htx.com/ (теперь HTX, раньше https://www.huobi.com/)
+- Gate https://www.gate.io/
 - Okx https://www.okx.com/ru
 - Bingx https://bingx.com/
 - Bitget https://bitget.com/
@@ -21,7 +22,7 @@
 - **Сеть Uniswap (обменники):**
 - https://app.uniswap.org/#/swap
 - https://www.sushi.com/
-- **Сеть SO (обменники)L:**
+- **Сеть SOL (обменники):**
 - https://www.solanium.io/trade
 - https://raydium.io/#/
 
@@ -70,23 +71,22 @@ Binance -> спот -> вывести (вывод) -> монета -> сеть B
 - Пополнения (для вывода средств)
 - Earn (стэйкинг, замороженные монеты, пул ликвидности)
 
-## Как искать связки
-
-- 
-
 ## Разное
 
 - https://coinmarketcap.com/ (популярные биржи, список популярных манет, можно интегрировать с кошельками сети)
 - https://www.coingecko.com/ (популярные биржи)
 - https://chainlist.org/ (проверка сетей)
 - https://p2p.army/en (поиск связок)
+- https://cryptomint.top/ (поиск связок)
+- https://dexscreener.com/
+- https://www.bestchange.ru/ (мониторинг обменников)
 - https://bestexchangers.ru/ru/pda.html?t=service (черный список мошеннических обменников электронных валют)
 - https://vc.ru/u/2269993-anton-stepanov/839642-gde-iskat-svyazki-dlya-arbitrazha-kriptovalyuty
 - https://dzen.ru/a/ZQS-5dzSpHpzpVH8
 
 ## https://www.youtube.com/watch?v=npQVkApuYaI
 
-https://cryptorank.io/ru/exchanges (поиск связок)
+https://cryptorank.io/ru/exchanges (поиск связок, вкладка арбитраж)
 https://cryptorank.io/ru/exchanges/binance?page=30
  Сортируем по объему, выбираем 600-300к среднюю монету..., открываем 5 монеток
  Ставим USDT (будем покупать и продавать за USDT)
@@ -94,24 +94,38 @@ https://cryptorank.io/ru/price/bitcoin/arbitrage (выбираем вкладк�
 - Слева будут биржи на которых покупаем, сверху будут биржи на которых продаем
 
 
-**🚀Биржи на которых кручу связки:**
-✅Binance https://binance.com/
-✅Bybit https://bybit.com/
-✅Mexc Global https://mexc.com/
-✅Huobi Global  https://www.huobi.com/ (Теперь HTX)
+## Арбитраж
+https://www.youtube.com/@cryptominTop
+https://api.binance.com/api/v3/ticker/price?symbol=FIROUSDT
+https://api-testnet.bybit.com/v5/market/tickers?category=inverse&symbol=BTCUSD
+https://bybit-exchange.github.io/docs/v5/market/tickers
 
-**Биржи которыми пользуюсь:**
-✅Bitget (бонус до 5005$): https://partner.bitget.com/bg/1BC10T
-Реферальный код для регистрации с телефона (в приложении): 3hgr
-✅Gate.io (скидка 10 % на торговые комиссии): https://www.gate.io/signup/12678397
-Реферальный код для регистрации с телефона (в приложении): 12678397
-✅OKX (скидка 10 % на торговые комиссии): https://www.okx.com/join/SERCRYPTO
-Реферальный код для регистрации с телефона (в приложении): SERCRYPTO
 
-## Площадки
+---
+почитай еще что такое dexscreener
 
-- https://www.binance.com/ru/trade/RPL_USDT
-- https://www.bybit.com/ru-RU/trade/spot/RPL/USDT
-- https://www.mexc.com/ru-RU/login?previous=%2F
-- https://www.kucoin.com/ru/account/kyc
-- https://www.htx.com/ru-ru/trade/
+https://3commas.io/?_ga=2.159127283.873334542.1710523955-288018213.1710523955 (боты торговые) https://www.youtube.com/watch?v=TQofcTnhM9Q
+https://veles.finance/ (боты торговые)
+
+## Индикаторы (найди тот 14 марта - те машки...)
+Smart MA
+MA RSI @KING
+Crypto EMA Bands
+[EG] MA ATR Channels
+EMA Band
+
+
+https://www.youtube.com/watch?v=CRumnDLE8Ts
+https://www.youtube.com/watch?v=n9YaEzUogTI
+https://telegra.ph/Gajd-InBinance-01-16
+https://www.youtube.com/watch?v=zwBdAHRF9M8
+https://www.youtube.com/watch?v=pQEXVda6ZCs
+https://www.youtube.com/watch?v=XClqDeyJJB0
+https://www.youtube.com/watch?v=BH76xD98xXc
+https://www.youtube.com/watch?v=NddpxQ4Y3jA
+https://www.youtube.com/watch?v=yu0Q6kLMeuc
+https://www.youtube.com/@LunevSergei/videos
+https://www.youtube.com/watch?v=fvPpurR62-E
+https://www.youtube.com/@prosveshenniy/videos
+https://www.youtube.com/watch?v=v1Taq5U_aA0
+
