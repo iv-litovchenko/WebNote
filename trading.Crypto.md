@@ -118,6 +118,26 @@ Crypto EMA Bands
 [EG] MA ATR Channels
 EMA Band
 
+Super 8 - 30M BTC
+
+--------------------
+
+Стратегия
+
+https://www.youtube.com/watch?v=0ZzLlA9NFxo
+https://www.youtube.com/watch?v=r0meyc9vJGI
+https://www.youtube.com/watch?v=qPtmfKrLVJo
+
+Хайкен Эши + 5М или М3
+UT BOT Alert (5,1) + Linear Regression Candles (7,11)
+UT BOT Alert (5,1) + Smoothed Heiken Ashi - SamX (1 час и 15 HA Price)
+
+
+Понимать где сейчас цена (флейт тренд коррекция 
+Понимать фильтр 
+Понимать где закрыться
+
+--------------------
 
 https://www.youtube.com/watch?v=CRumnDLE8Ts
 https://www.youtube.com/watch?v=n9YaEzUogTI
